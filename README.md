@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sitikanthsahoo/DSA-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sitikanthsahoo/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sitikanthsahoo/DSA-Java/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sitikanthsahoo/DSA-Java/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/sitikanthsahoo/DSA-Java/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -26,4 +28,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sitikanthsahoo/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sitikanthsahoo/DSA-Java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
